@@ -12,7 +12,7 @@
     "express"
   ],
   "author": "Eric",
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
   "dependencies": {
     "socket.io": "1.7.3",
     "express": "4.15.2"
